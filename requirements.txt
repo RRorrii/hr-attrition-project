@@ -7,3 +7,4 @@ torch==2.3.1
 streamlit==1.36.0
 openpyxl==3.1.5
 joblib==1.4.2
+pyarrow<26
