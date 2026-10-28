@@ -74,11 +74,15 @@ hr-attrition-project/
 1. Клонируйте репозиторий:
 git clone https://github.com/RRorrii/hr-attrition-project.git
 cd hr-attrition-project
+
 2. Установите необходимые зависимости:
 pip install -r requirements.txt
+
 3. Запустите скрипт подготовки данных (создаст обработанные CSV и скалер в папке data/processed):
 python src/data_preprocessing.py
+
 4. Обучите нейронную сеть (модель сохранится в папку models):
 python src/train.py
+
 5. Запустите демонстрационное веб-приложение:
 streamlit run app/streamlit_app.py
