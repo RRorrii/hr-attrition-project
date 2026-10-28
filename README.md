@@ -70,8 +70,8 @@ hr-attrition-project/
   ## 🚀 Как запустить проект
 
 Выполните следующие шаги в терминале вашей IDE (PyCharm, VS Code) или командной строке:
-
-**1. Клонируйте репозиторий:**
+```bash
+1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/RRorrii/hr-attrition-project.git
 cd hr-attrition-project
