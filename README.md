@@ -35,7 +35,7 @@ hr-attrition-project/
 ├── models/                # Сохраненные веса моделей (.pth, .pkl)
 ├── requirements.txt       # Зависимости проекта
 └── README.md
-
+```
 ##👥 Команда проекта
 * **Рудь Владислав (ИИ-26)
 
